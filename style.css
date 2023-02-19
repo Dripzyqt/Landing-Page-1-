@@ -123,3 +123,36 @@ nav {
 .images > p {
   padding-top: 10px;
 }
+
+.third {
+  background-color: #e5e7eb;
+  text-align: center;
+}
+
+.text {
+  padding-top: 5%;
+}
+
+.center-text {
+  font-size: 36px;
+  font-style: italic;
+  color: #1F2937;
+  padding-bottom: 15px;
+  padding-left: 30%;
+  width: 40%;
+}
+
+.right-text {
+  text-align: right;
+  font-weight: bolder;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  font-size: 36px;
+}
+
+.call {
+  background-color: white;
+  padding: 50px;
+  align-items: center;
+  justify-content: center;
+}
