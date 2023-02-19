@@ -152,7 +152,40 @@ nav {
 
 .call {
   background-color: white;
-  padding: 50px;
-  align-items: center;
-  justify-content: center;
+  padding: 100px;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.action {
+  background-color: #3882f6;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.action-text {
+  text-align: start;
+}
+
+.call-button {
+  padding-left: 30px;
+  padding-top: 12px;
+}
+
+#button {
+  color: white;
+  border: solid white 2px;
+  border-radius: 10px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #3882f6;
 }
